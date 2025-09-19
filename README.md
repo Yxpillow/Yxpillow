@@ -1,5 +1,4 @@
 <div align="center">
-# Hi, I'm YxPillow (滢小枕)
 <img src="概要.png" alt="概要" style="border-radius: 15px; max-width: 100%; height: auto;">
 </div>
 <div align="center">
