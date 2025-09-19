@@ -1,10 +1,7 @@
 <div align="center">
 # Hi, I'm YxPillow (滢小枕)
 <img src="概要.png" alt="概要" style="border-radius: 15px; max-width: 100%; height: auto;">
-
 </div>
-## What I Do
-
 <div align="center">
 <img src="能力.png" alt="能力展示" style="border-radius: 15px; max-width: 100%; height: auto;">
 </div>
