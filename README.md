@@ -17,15 +17,6 @@
 
 ---
 
-## Tech Stack & Interests
-
-- **Languages**: JavaScript, Python, HTML/CSS
-- **Projects**: P2P聊天软件、多线程下载工具、占卜工具、MIDI音乐生成器
-- **Interests**: 编程、写作、音乐创作
-- **Focus**: 本地局域网应用开发、文件传输优化
-
----
-
 ## Creative Works
 
 <div align="center">
@@ -54,15 +45,5 @@
 [![Email](https://img.shields.io/badge/Email-HI@yxpil.com-red?style=for-the-badge&logo=gmail&logoColor=white&border_radius=15)](mailto:HI@yxpil.com)
 [![QQ](https://img.shields.io/badge/QQ-402726272-blue?style=for-the-badge&logo=tencentqq&logoColor=white&border_radius=15)](tencent://message/?uin=402726272)
 [![GitHub](https://img.shields.io/badge/GitHub-yxpillow-black?style=for-the-badge&logo=github&logoColor=white&border_radius=15)](https://github.com/yxpillow)
-
-</div>
-
----
-
-<div align="center">
-
-### "用代码编织逻辑，用文字编织梦想"
-
-*Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat!*
 
 </div>
