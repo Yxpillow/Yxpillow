@@ -1,9 +1,6 @@
 <div align="center">
 
 # Hi, I'm YxPillow (滢小枕)
-
-<img src="机器人的头像.jpg" alt="YxPillow Avatar" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
-
 ### About Me
 
 <img src="概要.png" alt="概要" style="border-radius: 15px; max-width: 100%; height: auto;">
