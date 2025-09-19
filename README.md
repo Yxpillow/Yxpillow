@@ -33,13 +33,6 @@
 </div>
 
 ---
-
-## Virtual Character
-
-<div align="center">
-<img src="机器人虚拟形象背影图.jpg" alt="虚拟形象" style="border-radius: 15px; max-width: 400px; height: auto;">
-</div>
-
 ---
 
 ## GitHub Stats
