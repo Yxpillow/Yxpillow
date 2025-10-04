@@ -9,10 +9,6 @@
 </div>
 <div align="center">
 
-![YxPillow's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxpillow&show_icons=true&theme=radical&border_radius=15)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yxpillow&layout=compact&theme=radical&border_radius=15)
-
 </div>
 <div align="center">
 
