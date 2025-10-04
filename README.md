@@ -18,6 +18,6 @@
 
 [![Email](https://img.shields.io/badge/Email-HI@yxpil.com-red?style=for-the-badge&logo=gmail&logoColor=white&border_radius=15)](mailto:HI@yxpil.com)
 [![QQ](https://img.shields.io/badge/QQ-402726272-blue?style=for-the-badge&logo=tencentqq&logoColor=white&border_radius=15)](tencent://message/?uin=402726272)
-[![GitHub](https://img.shields.io/badge/GitHub-yxpillow-black?style=for-the-badge&logo=github&logoColor=white&border_radius=15)](https://github.com/yxpillow)
+
 
 </div>
